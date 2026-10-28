@@ -1,0 +1,6 @@
+# Downloaded source PDFs stay in the local research project.
+projects/**/literature/pdf/
+# Parsed full text and local parser dependencies are not repository content.
+projects/**/literature/parsed/
+.tools/
+tmp/
